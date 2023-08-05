@@ -19,7 +19,6 @@
   pkg install git
   git clone https://github.com/teamcyber-glitch/DDOS-ZOMBIE
   cd DDOS-ZOMBIE
-  bash install.sh
   ```
   </details>
 
