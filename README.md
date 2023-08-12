@@ -1,4 +1,5 @@
-<h1 align="center">☢ EXECUTOR-DDOS ZOMBIE 🧟</h1> 
+<h1 align="center">☢ EXECUTOR-DDOS ZOMBIE 🧟</h1><br> 
+THIS TOOLS ONLY TARGET HTTP not for HTTPS
 <div align="center">
 
 <img src="https://i.ibb.co/k3phGgc/IMG-20230805-235706.jpg" alt="IMG-20230805-235706" border="0">
@@ -27,7 +28,7 @@
 
   ```bash
   cd EXECUTOR-DDOS
-  python2 zombie.py
+  python2 zombie.py http://target.com
   ```
   </details>
 
