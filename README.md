@@ -9,7 +9,7 @@
 <img src="https://i.ibb.co/q7Ft1SK/IMG-20230805-235834.jpg" alt="IMG-20230805-235834" border="0">
 
 </div>
-# Usage
+<h2 align="center">INSTALLATION</h2>
 <details open>
   <summary><strong> STEP 1 </strong></summary>
 
